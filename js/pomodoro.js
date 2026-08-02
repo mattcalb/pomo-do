@@ -9,7 +9,7 @@ const playPauseButton = document.getElementById("play-pause-button");
 const skipButton = document.getElementById("skip-button");
 const sessionCounterElement = document.getElementById("session-counter");
 
-const timerEndAudio = new Audio("../assets/sounds/timer-end.mp3");
+const timerEndAudio = new Audio("assets/sounds/timer-end.mp3");
 
 const SESSION_DURATIONS = {
     focus: 25 * 60,
