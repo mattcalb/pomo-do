@@ -55,4 +55,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Authors
 Matthäus Campanher Albrecht
-- Github: [@mattcalb](https://www.github.com/mattcalb)
+- GitHub: [@mattcalb](https://www.github.com/mattcalb)
